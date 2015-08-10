@@ -1,0 +1,7 @@
+--It does not capitalize designated words (like prepositions, conjections, etc).
+
+It capitalizes the designated word if it is the first word in the title.
+
+--It handles non-letter characters in a title.
+
+It turns an all uppercase input into the correct case 
